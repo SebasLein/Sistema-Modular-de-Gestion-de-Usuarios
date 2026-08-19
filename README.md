@@ -92,4 +92,4 @@ Antes de entregar, agregue capturas reales en una carpeta `capturas/` y enlácel
 
 ## Video de reflexión
 
-Pendiente de agregar tras publicarlo: `[Ver video de reflexión](PEGAR_AQUI_EL_ENLACE_DE_YOUTUBE)`.
+Pendiente de agregar tras publicarlo: https://www.youtube.com/watch?v=q1Xt-DQ1X4I&authuser=0.
