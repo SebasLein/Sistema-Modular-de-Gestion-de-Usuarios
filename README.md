@@ -81,15 +81,6 @@ Antes de entregar, agregue capturas reales en una carpeta `capturas/` y enlácel
 
 ![Evidencia de terminal, uso de variables e intalación de dependencias parte 2](images/Evidencia2.png).
 
-## Guion para la socialización (máximo 5 minutos)
-
-1. **30 s — Objetivo:** presentar el sistema de consola y sus tres operaciones.
-2. **1 min — Organización:** mostrar `main.py`, `gestor.py`, `validaciones.py` y `settings.py`; cada uno tiene una responsabilidad.
-3. **1 min — Entorno y dependencias:** explicar que `.venv` aísla `python-dotenv` y que `requirements.txt` permite reproducir la instalación.
-4. **1 min — Configuración segura:** explicar `.env`, `.env.example` y `.gitignore`.
-5. **1 min — Demostración:** registrar, listar, buscar y provocar una validación de edad.
-6. **30 s — Reflexión:** modularizar facilita probar, mantener y reutilizar; el entorno virtual evita conflictos entre proyectos; las variables de entorno separan configuración y código, evitando publicar datos sensibles.
-
 ## Video de reflexión
 
 https://www.youtube.com/watch?v=q1Xt-DQ1X4I&authuser=0.
